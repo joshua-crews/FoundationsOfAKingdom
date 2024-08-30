@@ -1,0 +1,14 @@
+---
+# Config options for map generation and world size, etc.
+
+# Size of the world for noise generation
+# 1024
+world_size: 256
+
+# Size of chunks, should be a factor of world size and greater than 2
+# 32
+chunk_size: 16
+
+# Scale factor of the world mesh
+world_height: 5.0
+
